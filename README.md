@@ -7,3 +7,5 @@ Hacking
 Extortion
 Assault
 Drugs
+Trafficking
+Money Laundering
